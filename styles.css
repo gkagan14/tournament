@@ -56,7 +56,7 @@ nav {
 .s1 {
     font-size: 36px;
     text-align: center;
-    background-color: rgb(255, 77, 0);
+    background-color: rgb(82, 138, 184);
     margin: 20px;
     padding: 30px;
     border-radius: 25px;
@@ -78,26 +78,16 @@ body {
     ;
 }
 
-
+background-color: #294550
 
 .s2 {
     display: flex;
-    background-color: #cf14ad;
+    background-color: #293f50;
     margin: 20px;
     padding: 20px;
     border-radius: 25px;
     justify-content: space-around;
-    color: black;
-}
-
-.s3 {
-    display: flex;
-    background-color: #00ffff;
-    margin: 20px;
-    padding: 20px;
-    border-radius: 25px;
-    justify-content: space-around;
-    color: black;
+    color: white;
 }
 
 .row{
