@@ -42,7 +42,8 @@ header {
     height: 20px;
     font-size: 24px;
     color:black;
-    align: center
+    align: center;
+    padding: 10px;
 }
 
 nav {
